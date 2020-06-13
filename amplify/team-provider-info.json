@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-keytest-dev-93125-authRole",
+            "UnauthRoleArn": "arn:aws:iam::989256961875:role/amplify-keytest-dev-93125-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::989256961875:role/amplify-keytest-dev-93125-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-keytest-dev-93125-deployment",
+            "UnauthRoleName": "amplify-keytest-dev-93125-unauthRole",
+            "StackName": "amplify-keytest-dev-93125",
+            "StackId": "arn:aws:cloudformation:us-west-2:989256961875:stack/amplify-keytest-dev-93125/d551f2d0-ab37-11ea-a143-0266c276fda0"
+        }
+    }
+}
